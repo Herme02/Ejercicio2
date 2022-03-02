@@ -1,4 +1,4 @@
-# Proyecto base para el módulo Entornos de Desarrollo 2021/22
+# Proyecto base para el módulo Entornos de Desarrollo 2021/2022
 
 ## 1. ¿Para qué es este proyecto?
 > En este documento describimos las principales características que podemos incluir en un fichero **README.md**, junto a las etiquetas utilizadas para estructurar su contenido.
