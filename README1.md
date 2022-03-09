@@ -20,4 +20,4 @@ PAGINA:https://hermenflixweb.000webhostapp.com/
 CODIGO EN GIT:https://github.com/Herme02/Lenguaje_de_Marcas/tree/master 
 
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackaboss.com%2Fblog%2Fprofesionales-deberian-aprender-programacion&psig=AOvVaw0sEvZoz692s7j5OVgcaCR5&ust=1646914830750000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjh0YSCufYCFQAAAAAdAAAAABAD)
+![image](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbdbbbe002f366f6f68a_glenn-carstens-peters-npxXWgQ33ZQ-unsplash-1.jpeg)
